@@ -18,7 +18,9 @@
   .nav-link-text {
     color: black;
   }
-  .site-title {
+  /* ... your existing styles */
+
+.site-title {
     font-size: 3rem;
     color: gray;
     font-weight: 700;
